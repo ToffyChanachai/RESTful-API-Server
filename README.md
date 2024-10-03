@@ -1,1 +1,7 @@
-Link Backend : http://192.168.1.8:3333/todos 
+Port Backend : 3333
+
+Run server : adonis serve
+
+Postman File : 
+
+Database PostgreSQL version 17.0 : todoDB 
